@@ -21,3 +21,9 @@
 &#x20;    支持的代理软件：Clash
 
 &#x20;    价格/套餐：年付/月付/流量包  年付最便宜98元一年，每月199G流量， 月付一月7元，每月120G流量。最便宜流量包25元118G。本人也推荐此流量包当备用。
+
+Clash for Win：<https://clashforwindows100.com/clash-for-windows-download/>
+
+Clash for android： <https://clashforandroid100.com/>
+
+EH最新地址：<https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases>
